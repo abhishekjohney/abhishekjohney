@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem40NXd3bzg1cXRiYzZ2enF4aHRzdXN0Z2M5eDE3OG5sZXVxdzcyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="1200" alt="Coding GIF"/>
 </p>
 
 # 👋 Hi, I'm Abhishek Johney
