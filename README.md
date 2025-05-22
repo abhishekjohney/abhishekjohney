@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+</p>
+
 # 👋 Hi, I'm Abhishek Johney
 
 🌱 B.Tech IT student | 👨‍💻 Full Stack Developer | 📱 Mobile App Creator | 🎨 UI/UX Enthusiast  
@@ -69,6 +73,7 @@
 ---
 
 ⭐ *Thanks for visiting my GitHub! I'm always open to collaborating on exciting and impactful tech projects.*
+
 
 
 
