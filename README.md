@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem40NXd3bzg1cXRiYzZ2enF4aHRzdXN0Z2M5eDE3OG5sZXVxdzcyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="1200" alt="Coding GIF"/>
+  <img src="https://github.com/abhishekjohney/abhishekjohney/blob/main/ChatGPT%20Image%20May%2022,%202025,%2004_44_38%20PM.jpg?raw=true" width="1200" alt="Coding GIF"/>
 </p>
 
 # 👋 Hi, I'm Abhishek Johney
